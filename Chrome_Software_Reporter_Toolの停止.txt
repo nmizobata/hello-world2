@@ -1,0 +1,14 @@
+Chrome Software Reporter Toolの停止
+
+・エクスプローラーでCドライブにアクセス
+\\XNM201903-1019.dc00.fujixerox.net\C$
+
+・[ドキュメントの検索]からsoftware_reporter_tool.exeを検索
+・software_reporter_tool.exeのプロパティ>セキュリティタブ>詳細設定を開く
+・[継承の無効化]をクリック
+・「このオブジェクトから継承されたアクセス許可を全て削除します」をクリック
+
+参考URL
+https://qiita.com/YuheiTani/items/162ce1d559d2618f31b4
+
+以上
